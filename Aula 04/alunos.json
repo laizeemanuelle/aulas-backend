@@ -1,0 +1,152 @@
+[
+  {
+    "matricula": 1,
+    "aluno": "Maria da Silva",
+    "nota_final": 1.73
+  },
+  {
+    "matricula": 2,
+    "aluno": "Horacio Alyokhin",
+    "nota_final": 5.6
+  },
+  {
+    "matricula": 3,
+    "aluno": "Manoel Pereira",
+    "nota_final": 5.32
+  },
+  {
+    "matricula": 4,
+    "aluno": "Antonio Kline",
+    "nota_final": 3.96
+  },
+  {
+    "matricula": 5,
+    "aluno": "Christina Cavalcante",
+    "nota_final": 2.03
+  },
+  {
+    "matricula": 6,
+    "aluno": "William Roberto",
+    "nota_final": 7.62
+  },
+  {
+    "matricula": 7,
+    "aluno": "Brian Steet",
+    "nota_final": 6.47
+  },
+  {
+    "matricula": 8,
+    "aluno": "Tatiana Selvey",
+    "nota_final": 5
+  },
+  {
+    "matricula": 9,
+    "aluno": "Rubiana Carrane",
+    "nota_final": 3.92
+  },
+  {
+    "matricula": 10,
+    "aluno": "Norberto Hexter",
+    "nota_final": 6.29
+  },
+  {
+    "matricula": 11,
+    "aluno": "Katia Statton",
+    "nota_final": 9.41
+  },
+  {
+    "matricula": 12,
+    "aluno": "Catie Dailly",
+    "nota_final": 3.44
+  },
+  {
+    "matricula": 13,
+    "aluno": "Marcos Mourge",
+    "nota_final": 1.98
+  },
+  {
+    "matricula": 14,
+    "aluno": "Fátima Ravenscroftt",
+    "nota_final": 5.34
+  },
+  {
+    "matricula": 15,
+    "aluno": "Leandro Dockery",
+    "nota_final": 7.59
+  },
+  {
+    "matricula": 16,
+    "aluno": "Romeu Cufflin",
+    "nota_final": 8.66
+  },
+  {
+    "matricula": 17,
+    "aluno": "Dorotti Davidescu",
+    "nota_final": 7.03
+  },
+  {
+    "matricula": 18,
+    "aluno": "Krisha Karolovsky",
+    "nota_final": 2.59
+  },
+  {
+    "matricula": 19,
+    "aluno": "Paula Hodgen",
+    "nota_final": 10
+  },
+  {
+    "matricula": 20,
+    "aluno": "Cecilia Readitt",
+    "nota_final": 8.63
+  },
+  {
+    "matricula": 21,
+    "aluno": "Leone Crafts",
+    "nota_final": 9.11
+  },
+  {
+    "matricula": 22,
+    "aluno": "Alanis Bilovsky",
+    "nota_final": 3.28
+  },
+  {
+    "matricula": 23,
+    "aluno": "Marta Cobello",
+    "nota_final": 4.15
+  },
+  {
+    "matricula": 24,
+    "aluno": "Francisco Healey",
+    "nota_final": 4.29
+  },
+  {
+    "matricula": 25,
+    "aluno": "Marcelo Moreno",
+    "nota_final": 9.96
+  },
+  {
+    "matricula": 26,
+    "aluno": "Vanessa Henbury",
+    "nota_final": 3.21
+  },
+  {
+    "matricula": 27,
+    "aluno": "Valter Goodger",
+    "nota_final": 2.25
+  },
+  {
+    "matricula": 28,
+    "aluno": "Rodrigo Aspinwall",
+    "nota_final": 2.57
+  },
+  {
+    "matricula": 29,
+    "aluno": "Robson Drayson",
+    "nota_final": 8.79
+  },
+  {
+    "matricula": 30,
+    "aluno": "Vitoria de Jesus",
+    "nota_final": 3.85
+  }
+]
