@@ -1,0 +1,30 @@
+1|Mariana Rios|9.41
+2|Caio Shillabear|5.03
+3|Cauã Romagnosi|6.16
+4|Francisca de Cullip|9.99
+5|Frederico Hindhaugh|9.38
+6|Lucas Gudgeon|0.36
+7|Maria Aicheson|0.44
+8|Damiana Fabb|9.59
+9|Leonardo Zellner|7.11
+10|Luan Lyte|6.88
+11|Bili Rogister|6.41
+12|Ariana Svanetti|6.42
+13|Guilherme Dionisio|0.83
+14|Laura Chapier|1.81
+15|Anette Blackly|2.43
+16|Katherine Ullett|7.06
+17|Livia Ozintsev|6.03
+18|Alexandre Ferres|8.83
+19|Eduardo Catcherside|9.47
+20|Andreia Olivi|9.22
+21|Bruna Sorby|7.3
+22|Murilo zsa Leel|4.52
+23|Tomas Clilverd|1.5
+24|Vicente Smurthwaite|9.7
+25|Alice Schild|5.85
+26|Gabriel Clarkson|1.61
+27|Melissa Lafaye|3.89
+28|Rubiana Wigfall|8.5
+29|Leandro Brachell|1.93
+30|Douglas Foynes|9.0
